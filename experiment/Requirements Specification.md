@@ -1,3 +1,4 @@
+# Requirements Specification
 ### 1. Overview
 
 The Gym Class Reservation System is a browser-based, single-page web application that enables gym members to:
